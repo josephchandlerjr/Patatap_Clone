@@ -1,5 +1,5 @@
-Patatap Clone
+# Patatap Clone
 
-Inspired by https://patatap.com/
+* Inspired by https://patatap.com/
 
-Built with Paper.js and Howler.js
+* Built with Paper.js and Howler.js
